@@ -19,3 +19,4 @@ function displayVehicles(vehicles) {
         vehicleList.appendChild(listItem);
     });
 }
+
